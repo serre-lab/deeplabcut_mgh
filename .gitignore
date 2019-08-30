@@ -1,3 +1,7 @@
+# Added by kalpitthakkar
+mgh_pose_dlc*
+*.ckpt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
